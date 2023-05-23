@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Nueva Prenda"
+        android:src="@drawable/majesticons_t_shirt_line"
+        android:id="@+id/nuevaPrenda"/>
+    <item android:title="Ver Prendas"
+        android:src="@drawable/ic_launcher_background"
+        android:id="@+id/verPrendas"/>
+    <item android:title="Carrito"
+        android:id="@+id/carrito"/>
+</menu>
